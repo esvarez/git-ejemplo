@@ -1,6 +1,10 @@
 div {
-  background-color: aqua;
+  background-color: green;
   height: 150px;
   width: 150px;
   margin: 10px;
+}
+
+.blue {
+  background-color: blue;
 }
